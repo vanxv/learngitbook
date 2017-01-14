@@ -32,3 +32,15 @@ An image: ![gras](image/gitbookurl.png)
 #github
 新建库直接丢上去就好了。
 到首页新建库，然后
+```
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vanxv/learngitbook.git
+git push -u origin master
+```
+github加入已有库
+```
+git remote add origin https://github.com/vanxv/learngitbook.git
+git push -u origin master
+```
