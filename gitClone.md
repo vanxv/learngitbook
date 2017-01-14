@@ -39,8 +39,20 @@ git commit -m "first commit"
 git remote add origin https://github.com/vanxv/learngitbook.git
 git push -u origin master
 ```
-github加入已有库
+#github加入已有库
 ```
 git remote add origin https://github.com/vanxv/learngitbook.git
 git push -u origin master
 ```
+#关联gitbook和github
+1.进入**gitbook**
+
+2.在需要同步的页面上 **edit** 下面有个 **book settings**
+
+3.左侧有个 **github** 进入后 **select a  Reposltory**
+
+4.选择需要同步的文本
+
+5.点击 **sync**
+
+当github上有新文件上传时，gitbook也会自动同步
