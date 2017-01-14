@@ -1,2 +1,4 @@
 # Gitbook使用说明书
-This is a book powered by [gitbook](https://toolchain.gitbook.com/syntax/markdown.html)
+This is a gitbook powered by Vanxv
+
+自己在学的时候写下来希望对大家有用
