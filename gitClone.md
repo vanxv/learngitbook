@@ -51,7 +51,7 @@ git push -u origin master
 
 3.左侧有个 **github** 进入后 **select a  Reposltory**
 
-4.选择需要同步的文本
+4.选择需要同步的文本.
 
 5.点击 **sync**
 
